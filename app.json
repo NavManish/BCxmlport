@@ -1,0 +1,27 @@
+{
+  "id": "fd0b3d7d-dbfb-48dc-a530-f1c1a0d5c904",
+  "name": "SalesInvLineXML",
+  "publisher": "VOX",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "showMyCode": false,
+  "features": [
+    "TranslationFile"
+  ],
+  "idRange": {
+    "from": 50000,
+    "to": 99999
+  },
+  "runtime": "2.0"
+}
